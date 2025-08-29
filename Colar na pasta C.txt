@@ -1,0 +1,3 @@
+Colar na pasta C:
+ficará assim: 
+C:/ffmpeg/bin 
